@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java, Spring Boot and Laravel**
 
-- 📫 How to reach me **shivansha56@gmail.com**
+- 📫 How to reach me **shivanshagarwal-portfolio-vercel.app**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZYAfy6ARiFNaFXrioe2C7tCUnettE_zt/view?usp=drive_link)
 
