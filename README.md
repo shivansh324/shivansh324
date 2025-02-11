@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **shivansha56@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZYAfy6ARiFNaFXrioe2C7tCUnettE_zt/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pwtNjJf8jEpdiRBk6TPM2F9f92gmvTaf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
